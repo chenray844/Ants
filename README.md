@@ -5,7 +5,7 @@ Ants: For Distribute Computing
 Produce Jobs
 
 ## Ants.Queue
-Assign Jobs to Ergate to finish it
+Assign Jobs to Ergate to finish it, and produce it when job is coming.
 
 ## Ants.Ergate
 Finish the job
